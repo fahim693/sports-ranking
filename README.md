@@ -4,7 +4,7 @@
 
 Team ranking of some popular sports
 
-For now, I have added team/player ranking of 4 popular sports
+So far I have added top ten team/player ranking of 4 popular sports
 
 ### FIFA  World Ranking
 <img height="700" src="https://user-images.githubusercontent.com/28337337/89736979-68b39700-da8f-11ea-918f-2e279d6be800.jpg"/>
