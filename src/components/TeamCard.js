@@ -43,7 +43,6 @@ const TeamCard = (props) => {
                 </View>
             </View>
         </Card>
-
     )
 }
 
